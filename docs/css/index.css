@@ -6,6 +6,7 @@ body {
 }
 
 .cv{
+    float: left;
     height: 100vw;
     width: 70vw;
     margin-left: 15vw;
